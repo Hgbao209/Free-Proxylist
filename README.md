@@ -54,7 +54,7 @@ for proxy in proxies:
 ```
 #### Python (với requests + socks)
 ```bash
-pip instll requests[socks]
+pip install "requests[socks]"
 
 ```
 ```python
